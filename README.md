@@ -5,3 +5,7 @@ with the default configuration as seen below\
 ![kotest-configuration.png](assets%2Fkotest-configuration.png)\
 this error appears:\
 ![error-mock.png](assets%2Ferror-mock.png)
+
+# For the fix:
+
+Check out the branch `fix-the-issue`
